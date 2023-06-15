@@ -17,6 +17,10 @@ def index():
 if __name__ == "__main__":
       app.run(port=5000, host="localhost", debug=True)
 ````
+> Para rodar a aplicação basta copiar o comando abaixo em seu terminal e precionar ENTER
+````
+python main.py 
+````
 [Tecnologias utilizadas](#tecnologias-utilizadas%color=green)
 > 🔨 Python<br>
 > 🔨 Flask<br>
