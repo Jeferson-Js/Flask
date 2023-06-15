@@ -17,6 +17,14 @@ def index():
 if __name__ == "__main__":
       app.run(port=5000, host="localhost", debug=True)
 ````
+> Para rodar a aplicação basta copiar o comando abaixo em seu terminal e precionar ENTER
+````
+python main.py 
+````
+> Resultado da aplicação
+
+![resultado](https://github.com/Jeferson-Js/Flask/assets/82729145/cda81b51-3d53-4fda-87c6-09e4ecb3b650)
+
 [Tecnologias utilizadas](#tecnologias-utilizadas%color=green)
 > 🔨 Python<br>
 > 🔨 Flask<br>
